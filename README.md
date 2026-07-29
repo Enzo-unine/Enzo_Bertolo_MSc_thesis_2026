@@ -1,5 +1,5 @@
 # Enzo_Bertolo_MSc_thesis_2026
-Enzo Bertolo. MSc Biodiversity Conservation (2024-2026).Thesis on the impact of light pollution and other environmental factors on the activity of the brown hare. Supervised by Sergio Rasmann (UNINE), Claude Fischer (HEPIA), Vincent Grognuz (Agroscope) and Sandrine Wider (Vogelwarte).
+Enzo Bertolo. MSc Biodiversity Conservation (2024-2026). Thesis on the impact of light pollution and other environmental factors on the activity of the brown hare. Supervised by Sergio Rasmann (UNINE), Claude Fischer (HEPIA), Vincent Grognuz (Agroscope) and Sandrine Wider (Vogelwarte).
 
 # Data 
 Data collected by Enzo Bertolo between 5 December 2025 and 11 May 2026 on three brown hares in the Val-de-Ruz. The data are divided into three files according to the analyses in which they are used.
