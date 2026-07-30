@@ -10,7 +10,7 @@ STEPS_5min_dist_lamp: Sorted and categorised data suitable for spatial analyses 
 
 STEPS_5min_lm: Sorted and categorised data suitable for spatial analyses relating to mobile streetlights
 
-# Description each variable
+# Description of each variable
 ‘ID’: Initial of the hare to which the data belongs
 
 ‘step’: distance travelled since the last point
