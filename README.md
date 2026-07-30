@@ -60,9 +60,9 @@ streetlight) (metres)
 
 ‘precipitation_mm Neuchâtel’: Total precipitation at the time the GPS coordinate was recorded (mm)
 
-‘sunset’: Time of sunset on the day the GPS coordinate was recorded
+‘sunset’: Time of sunset on the day the GPS coordinate was recorded (yy:mm:dd hh:mm:ss)
 
-‘sunrise’: Time of sunrise on the day the GPS coordinate was recorded
+‘sunrise’: Time of sunrise on the day the GPS coordinate was recorded (yy:mm:dd hh:mm:ss)
 
 # Script
 ‘1. Packages.R’: 
